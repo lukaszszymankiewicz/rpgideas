@@ -72,17 +72,19 @@ Co chce zrobić:
 Relacje:
     Hugo nie będize skłonny do rozmów o innych gościach wieży.
 Co zrobi i tak:
-    Niziołek przyrządzi zatruty posiłek który sprawi, że wszyscy stracą przytomność pozwoli to na bezpieczne wydobycie zwojów dla Tzeentza.
+    Niziołek przyrządzi zatruty posiłek który sprawi, że wszyscy stracą
+    przytomność pozwoli to na bezpieczne wydobycie zwojów dla Tzeentza. Ponieważ
+    nie ma tu środków na przyrządzenie odpowiedniej trucuzny, każdy kto zje
+    posiłek i nie uda mu się rzut na [Kondycja-20] ma modyfikator -20 do rzutów.
+    Hugo od razu wtedy przemienia się w potwora i atakuje graczy.
 
 
 **Sven Dibblewarf**
-    Wspinacie się powoli po wąskich kamiennych schodach wychodzących na dach wieży. Uderza w was mokre powietrze, dmiący chłodny wiatr oraz zapach torfu i błota. Pośród ciemności odpędzanej tylko niewielką ćmiącą latarnia stoi człowiek. Nie odwraca się w waszą stronę mimo iż słyszy wasze kroki po kaminnej posadzce, odbijające się echem.
-    Gdy podchodzicie bliżej zauważacie, że chłowiek jest ubrany jest w podłe chłopskie ubranie, teraz dodatkowo ociekające od błota oraz brudu. Twarz człowieka jest zarośnięta i zaniedbana, w ciemnościach nie widać również aby targały nim żadne emocje.
+    Wspinacie się powoli po wąskich kamiennych schodach wychodzących na dach wieży. Uderza w was mokre powietrze, dmiący chłodny wiatr oraz zapach torfu i błota. Pośród ciemności odpędzanej tylko niewielką ćmiącą latarnia stoi człowiek. Nie odwraca się w waszą stronę mimo iż słyszy wasze kroki po kaminnej posadzce, odbijające się echem. Gdy podchodzicie bliżej zauważacie, że chłowiek jest ubrany jest w podłe chłopskie ubranie, teraz dodatkowo ociekające od błota oraz brudu. Twarz człowieka jest zarośnięta i zaniedbana, w ciemnościach nie widać również aby targały nim żadne emocje.
     - Witajcie - rzuca cicho nagle - jestem Sven, jeszcze do niedawna nosiłem godność czarodziejską
 
 Historia:
-    Sven jest doświadczonym czarodziejem, oraz wysoko postawioną osobą w Altdorfskim Kolegium Magii. Gdy pierwsze plotki o inwazji chaosu zaczeły docierać do elektorów, został wysłany, wraz z grupką innych magów z misją do Middleheim. Za zadanie miał dostarczenie potężnych zwojów dla [[Potrzebne Źródło]], które to zwoje mogły pomoć w wytworzeniu magicznej bariery nad miastem. Mimo, że grupa wyruszyła najszybciej jak to było możliwe, nie udało im się dotrzeć do miasta przed tym jak poczeły w okolicy pojawiać się pierwsze forpoczty Chaosu. Sven został zaatakowany przez jeden z takich oddziałów, na nieszczęście jednak, jeden ze zwierzoludzi był szamanem i również posługiwał się magią. Podczas wasi zaklęcia oraz moce umysłu splotły się i nagieły rzeczywistość, potężne implozje oraz wiry magii zniszczyły całą okolicę. Sven, jeżeli chodzi o jego ciało, wyszedł z tego bez szwanku, jednak utracił zdolność rzucania zaklęć (udany rzut na [Intuicja-10] pozwala na wyczucie iż mówi prawdę), jego grupa była również mocno poraniona. Powolnym marszem udało im się dotrzeć do okolic Middleheim gdzie rozpeczły się regularne walki z oddziałami chaosu. Czarodziej, nie posiadający już żadnych potężnych zdolności ani umiejętności, widząc przeważające zastępy wroga postanowił uciec od swoich towarzyszy.
-    Przywdział chłopskie ubranie znalezione w jednej z wiosek i rozpoczął swoją ucieczkę na południe. W ten sposób dotarł do wieży Harsum.
+    Sven jest doświadczonym czarodziejem, oraz wysoko postawioną osobą w Altdorfskim Kolegium Magii. Gdy pierwsze plotki o inwazji chaosu zaczeły docierać do elektorów, został wysłany, wraz z grupką innych magów z misją do Middleheim. Za zadanie miał dostarczenie potężnych zwojów dla Marcusa Dietla, które to zwoje mogły pomoć w wytworzeniu magicznej bariery nad miastem. Mimo, że grupa wyruszyła najszybciej jak to było możliwe, nie udało im się dotrzeć do miasta przed tym jak poczeły w okolicy pojawiać się pierwsze forpoczty Chaosu. Sven został zaatakowany przez jeden z takich oddziałów, na nieszczęście jednak, jeden ze zwierzoludzi był szamanem i również posługiwał się magią. Podczas wasi zaklęcia oraz moce umysłu splotły się i nagieły rzeczywistość, potężne implozje oraz wiry magii zniszczyły całą okolicę. Sven, jeżeli chodzi o jego ciało, wyszedł z tego bez szwanku, jednak utracił zdolność rzucania zaklęć (udany rzut na [Spostrzegawczość - 10] pozwala na wyczucie iż mówi prawdę), jego grupa była również mocno poraniona. Powolnym marszem udało im się dotrzeć do okolic Middleheim gdzie rozpeczły się regularne walki z oddziałami chaosu. Czarodziej, nie posiadający już żadnych potężnych zdolności ani umiejętności, widząc przeważające zastępy wroga postanowił uciec od swoich towarzyszy. Przywdział chłopskie ubranie znalezione w jednej z wiosek i rozpoczął swoją ucieczkę na południe. W ten sposób dotarł do wieży Harsum.
 
 Co chce zrobić:
     Sven jest zrezygnowany i obojętny na otaczającą go rzeczywistość. Jest świadomy tego, że opuścił swoich towarzyszy wtedy kiedy najbardziej tego potrzebowali i prawdopodobnie skazał ich na śmierć. Zgodzi się na każdą dobrze uargumentowaną propozycję. 
@@ -91,46 +93,68 @@ Relacje:
     Sven ma do wszystkich neutralny stosunek, wypytany jednak, trafnie oceni motywacje pozostałych gości w wieży.
 
 Co zrobi i tak:
-    Sven dołaczy do jakiejkolwiek silniejszej grupy, udany rzut na [Charyzma] pozwoli go przekonać do swoich racji.
+    Sven dołaczy do jakiejkolwiek silniejszej grupy, udany rzut na [Ogłada] pozwoli go przekonać do swoich racji.
 
 Stoicie wraz z czterema innymi postaciami w obszernej sali wieży. Kilka świec oświetla drewniane ławy przy których, jeszcze nie dawno, jadano i śmiano się. 
 
 
+Wieża:
+
+Wieża składa się trzech pięter i tajemnej piwnicy:
+
+Dach
+    Na dachu jest Sven
+
+Pierwsze piętro
+    Pomieszczenie główne, jest tu kilka ław oraz krzeseł. Hector będzie tu
+    rezydował.
+
+Drugie piętro
+    Cztery pokoje z łóżkami. W jednym z kuferków można znaleźć niewysłany list
+    jednego ze strażników. Piszę tam do swojej wybranki Lisy o tym, że obstawa
+    wieży została zwiększona, coś się czai w powietrzu i dodatkowo dostarczyli
+    im proch. Tu odpoczywa Vaclav.
+
+Parter:
+    Kuchnia, magazyn i spiżarnia. 
+    W kuchni niziołek Hugo przygotowuje strawę.
+    Magazyn jest zagracony i można tam znaleźć mnóstwo różnorakich gratów.
+    Znajdują się tam trzy beczki z prochem. Jedna taka beczka bez problemu jest
+    w stanie zburzyć wieże, ponadto będzie tam kilka Rusznic oraz hakownic.
+    Spiżarania jest względnie uporządkowana, to tam przy udanym rzucie na
+    [Spostrzegwaczość-10] można znaleźć gorzej otynkowane przejście do
+    [Piwnica]. Hugo będzie bardzo niechętny temu żeby gracze weszli tam i będzie
+    ich od tego odwodził.
+
+Piwnica:
+    Do piwnicy prowadzą małe, wąskie i zaniedbane schody, gracze z trudem będą
+    przeciskać się przez korytarz. Każdy z graczy musi rzucić na [Wspinaczka+10]
+    żeby się nie przewrócić. Schody prowadzą głęboko aż do niewielkiego i
+    jeszcze bardziej zaniedbanego pomieszczenia. Kiedyś stały tam pewnie regały
+    z winem, teraz jest tu głównie śmietnik i resztki mebli.
+
+    Rzut na [Przeszukiwanie] lub [Spostrzegwaczość] pozwoli zauważyć, że za
+    regałami otynkowane zostały wnęki w których ukryto starożytne elfickie
+    zwoje. Tylko ktoś znający język elficki (po udanym rzucie na [Int-10]) będzie
+    mógł przypuszczać do czego te zwoje mogłyby służyć.
+    
+    Gdy gracze odkryją te zwoje Hugo zrobi wszystko aby wyprosić graczy z kuchni
+    po czym zabarykaduje się i przemieni w Potwora. Gdy tylko to zrobi armia
+    chaosu przystąpi do ataku. Gracze mają 10 tur zanim armia dotrze do wieży.
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Potwór:
+    Potwór to rozerwany na strzępy niziołek Hugo z którego teraz wyrasta osiem
+    macek na zwór pająka. Wielkie oko zajmuje większość dawnego korpusu
+    niziołka. Staty:
+    WW: 30
+    K: 30
+    Odp: 30
+    Zr: 80
+    Int: 5
+    SW: 25
+    A: 8
+    Żyw: 40
+    S: 3
+    Wt: 3
 
